@@ -40,10 +40,4 @@ The interactive Excel dashboard is a user-friendly tool designed to explore the 
 1. Clone this repository to your local machine using: `git clone https://github.com/your-username/sales-analysis-dashboard.git`.
 2. Access the `Sales_Dashboard.xlsx` Excel file to interact with the dashboard. Utilize the provided filters and features to explore sales insights.
 
-## Dependencies
-
-Ensure you have the following dependencies installed to run the Jupyter Notebook and use the Excel dashboard:
-
--
-
-# WixSin 
+## Insights
